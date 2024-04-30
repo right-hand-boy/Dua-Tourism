@@ -1,0 +1,24 @@
+.FeaturedTrousim {
+  height: max-content;
+  display: inline-block;
+  width: fit-content;
+}
+.name,
+.price,
+.info {
+  font-size: 1.8rem !important;
+  color: black;
+  margin-bottom: 1.2rem;
+}
+.FeaturedTrousimInformation {
+  font-size: 1.8rem;
+  padding: 1.2rem;
+}
+.price {
+  color: var(--color-accent);
+  font-weight: 500;
+  cursor: pointer;
+  &:hover {
+    color: black;
+  }
+}

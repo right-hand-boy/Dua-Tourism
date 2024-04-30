@@ -1,0 +1,65 @@
+.navigation {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  text-transform: capitalize;
+  width: max-content;
+  font-size: 1.8rem;
+  gap: 3.2rem;
+  cursor: pointer;
+  width: 40%;
+  transition: all 1s;
+  margin-top: 4.4rem;
+  margin-left: 6.2rem;
+}
+.navigation li::before {
+  content: "";
+  background-color: var(--color-accent);
+  position: absolute;
+  bottom: 7.3rem;
+  margin: 0 auto;
+  width: 0;
+  height: 0.3rem;
+  border-radius: 1.6rem;
+}
+.navigation li {
+  position: relative;
+}
+.navigation li:hover,
+.adventuerList li:hover {
+  color: var(--color-accent);
+}
+.adventuer:hover + .svg-plus {
+  fill: var(--color-accent) !important;
+}
+
+.adventuerList {
+  display: none;
+  flex-direction: column;
+  gap: 1.2rem;
+  background-color: white;
+  color: var(--color-33649db);
+  list-style: none;
+  position: absolute;
+  z-index: 9999;
+  transition: all 0.3s ease-in-out;
+  padding: 3.2rem;
+  text-align: left;
+  font-size: 1.8rem;
+  text-transform: capitalize;
+  font-weight: 500;
+  top: 8rem;
+  transform: translateX(2.4rem);
+  cursor: pointer;
+  border-radius: 1.2rem;
+  /* height: 35rem; */
+  /* overflow-y: scroll; */
+  scrollbar-width: thin;
+}
+
+.navigation li:hover::before {
+  width: 100%;
+}
+.callNow {
+  align-self: center;
+}

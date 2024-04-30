@@ -1,0 +1,130 @@
+{
+  "Adventuers": [
+    {
+      "img": "./image/abu-dhabi-tour-thumnail-3.jpg",
+      "name": "abu dhabi tour",
+      "info": "Enjoy the idyllic beauty of UAE’s capital Abu Dhabi with us.",
+      "price": "AED 111.00"
+    },
+    {
+      "img": "./image/abu-dhabi-tour-with-lunch-thumnail.jpg",
+      "name": "abu dhabi city tour with lunch",
+      "info": "Explore Abu Dhabi’s highlights, culture, and cuisine with a lunch.",
+      "price": "AED 200.00"
+    },
+    {
+      "img": "./image/abu-dhabi-tour-thumnail-7.jpg",
+      "name": "abu dhabi private city tour",
+      "info": "Explore Abu Dhabi’s highlights, culture, and cuisine in private car.",
+      "price": "AED 750.00"
+    },
+    {
+      "img": "./image/dubai-city-tour-thumnail-8.jpg",
+      "name": "dubai city tour",
+      "info": "Uncover Dubai’s iconic landmarks on an immersive city tour",
+      "price": "AED 100.00"
+    },
+    {
+      "img": "./image/evening-desert-safari-tourthumnail.jpg",
+      "name": "evening desert safari",
+      "info": "Embark on an enchanting evening desert safari adventure in Dubai",
+      "price": "AED 120.00"
+    },
+    {
+      "img": "./image/hot-balloon-thumbnail-2.jpg",
+      "name": "hot air balloon - standard",
+      "info": "Elevate your experience with our standard hot air balloon package.",
+      "price": "AED 1100.00"
+    },
+    {
+      "img": "./image/global-village-tour-thumbnail.jpg",
+      "name": "global village tour",
+      "info": "Embark on a Global Village tour, exploring diverse cultures",
+      "price": "AED 300.00"
+    },
+    {
+      "img": "./image/12-mint-tour-thumbnail-2.jpg",
+      "name": "12 Minutes Iconic Tour",
+      "info": "Experience Dubai’s iconic landmarks in 12-minute helicopter tour.",
+      "price": "AED 750.00"
+    },
+    {
+      "img": "./image/miracel-garden-tour-thumbnail.jpg",
+      "name": "miracel garden tour",
+      "info": "Discover natural wonders on our Miracle Garden tour.",
+      "price": "AED 300.00"
+    },
+    {
+      "img": "./image/buggy-ride-thumbnail-1.jpg",
+      "name": "buggy ride on rent",
+      "info": "Get your adrenaline pumping with our buggy ride rentals.",
+      "price": "AED 800.00"
+    },
+    {
+      "img": "./image/quad-bike-ride-thumbnail.jpg",
+      "name": "desert safari quad bike ",
+      "info": "Combine adventure and exploration with Desert Safari + Quad Bike",
+      "price": "AED 250.00"
+    },
+    {
+      "img": "./image/dhow-dinner-creek-thumbnail.jpg",
+      "name": "dhow dinner cruise creek",
+      "info": "Savor evening on our Dhow Dinner Cruise along Dubai Creek.",
+      "price": "AED 50.00"
+    },
+    {
+      "img": "./image/dhow-dinner-marina-thumbnail-1.jpg",
+      "name": "dhow dinner cruise marina",
+      "info": "Dining experience aboard our Dhow Dinner Cruise in Marina.",
+      "price": "AED 150.00"
+    },
+    {
+      "img": "./image/ferrari-world-thumbnail.jpg",
+      "name": "ferrari world abu dhabi",
+      "info": "Experience exhilaration at Ferrari World Abu Dhabi.",
+      "price": "AED 400.00"
+    },
+    {
+      "img": "./image/hatta-mountain-thumbnail.jpg",
+      "name": "hatta mountain safari",
+      "info": "Embark on an exciting Hatta Mountain Safari adventure.",
+      "price": "AED 120.00"
+    },
+    {
+      "img": "./image/yatch-thumbnail.jpg",
+      "name": "private yatch tour",
+      "info": "Sail in luxury and style with our Private Yacht Tour.",
+      "price": "AED 600.00"
+    },
+    {
+      "img": "./image/hummer-thumbnail-1.jpg",
+      "name": "hummer desert safari",
+      "info": "Embark off-road adventure on a thrilling Hummer Desert Safari.",
+      "price": "AED 270.00"
+    },
+    {
+      "img": "./image/khorfakkan-thumbnail-1.jpg",
+      "name": "khorfakkan tour",
+      "info": "Experience the natural beauty of Khorfakkan on a captivating tour.",
+      "price": "AED 180.00"
+    },
+    {
+      "img": "./image/overnight-safari-thumbnail.jpg",
+      "name": "overnight safari",
+      "info": "Spend a magical night  with our Overnight Safari experience.",
+      "price": "AED 250.00"
+    },
+    {
+      "img": "./image/rak-thumbnail.jpg",
+      "name": "rak tour",
+      "info": "Discover the charms of Ras Al Khaimah on a amazing RAK tour.",
+      "price": "AED 190.00"
+    },
+    {
+      "img": "./image/vip-desert-thumbnail-1.jpg",
+      "name": "vip desert safari",
+      "info": "Elevate your desert adventure with our VIP Desert Safari experience.",
+      "price": "AED 190.00"
+    }
+  ]
+}

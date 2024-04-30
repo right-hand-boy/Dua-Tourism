@@ -1,0 +1,40 @@
+.homepage {
+  position: relative;
+}
+
+.Up,
+.contact {
+  position: fixed;
+  bottom: 3rem;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  gap: 3.2rem;
+  align-content: center;
+}
+.Up {
+  right: 1.2rem;
+}
+.contact {
+  left: 1.2rem;
+}
+.facebookIconBox,
+.iconBox,
+.UpIconBox {
+  padding: 1.2rem;
+  height: max-content;
+  width: max-content;
+  display: inline-block;
+}
+.facebookIconBox {
+  background-color: #25d366;
+  border-radius: 50%;
+}
+.iconBox {
+  background-color: green;
+  border-radius: 50%;
+}
+.UpIconBox {
+  background-color: var(--color-accent);
+  border-radius: 1.2rem;
+}

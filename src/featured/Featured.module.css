@@ -1,0 +1,34 @@
+.FeaturedAdventuer {
+  background-color: white;
+  padding: 9.2rem;
+}
+.FeaturedInformation {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.FeaturedInformation p {
+  font-size: 1.8rem;
+  color: var(--color-text);
+  width: 80%;
+  align-self: center;
+}
+.FeaturedAdventuer h1 {
+  color: black;
+  text-transform: capitalize;
+  font-size: 6.2rem;
+}
+.FeaturedAdventuer h2 {
+  text-transform: capitalize;
+  font-size: 4.4rem;
+  color: var(--color-accent);
+}
+.FeaturedAdventuerBox {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 3.2rem;
+  padding: 3.2rem 0;
+}
+.FeaturedInformation button {
+  align-content: center;
+}

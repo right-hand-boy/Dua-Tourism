@@ -1,0 +1,54 @@
+.about {
+  margin-top: 6.2rem;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  background-color: var(--color-cf5c5bd);
+  color: black;
+}
+
+.aboutUsInformation {
+  padding: 3.2rem 0 3.2rem 4.4rem;
+  max-width: 60%;
+  margin-left: 6.2rem;
+}
+.about h1,
+.about h2 {
+  text-transform: capitalize;
+  margin: 1.2rem 0;
+}
+.about h1 {
+  font-size: 4.4rem;
+}
+.about h2 {
+  font-size: 3rem;
+  color: var(--color-accent);
+}
+.information {
+  font-size: 1.8rem;
+  line-height: 1.8;
+  color: var(--color-33649db);
+  margin: 3.2rem 0;
+  font-weight: 500;
+}
+.duaAbtImg {
+  width: 85%;
+  transform: translateY(-3rem);
+}
+.learnMore {
+  transition: all 0.5s;
+}
+.learnMore:hover {
+  transform: translate(1rem, 1rem) !important;
+}
+.numberCustomers {
+  text-transform: capitalize;
+  width: 85%;
+  color: white;
+  background-color: #242424;
+  padding: 1.2rem 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-top: -4rem;
+}
